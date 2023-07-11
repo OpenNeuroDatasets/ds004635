@@ -1,11 +1,14 @@
 {
-  "Authors": [
-    "Armen Bagdasarov",
-    "Michael S. Gaffrey"
-  ],
-  "Name": "Gaffrey Lab Infant Microstates Reliability",
-  "License": "CC0",
-  "ReferencesAndLinks": [""],
-  "BIDSVersion": "1.8.0",
-  "HEDVersion": "8.1.0"
+    "Authors": [
+        "Armen Bagdasarov",
+        "Michael S. Gaffrey"
+    ],
+    "Name": "Gaffrey Lab Infant Microstates Reliability",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004635.v1.0.0"
 }
