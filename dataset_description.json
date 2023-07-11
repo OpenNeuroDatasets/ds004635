@@ -1,0 +1,11 @@
+{
+  "Authors": [
+    "Armen Bagdasarov",
+    "Michael S. Gaffrey"
+  ],
+  "Name": "Gaffrey Lab Infant Microstates Reliability",
+  "License": "CC0",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}
